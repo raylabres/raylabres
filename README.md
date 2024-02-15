@@ -1,6 +1,6 @@
 ### 
 
-## Hello Word eu sou o Ray Labres, desenvolvedor, entusiasta e amante da tecnologia!
+## Olá eu sou o Ray Labres, desenvolvedor, entusiasta e amante da tecnologia! 👨‍💻⚡
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ray-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
