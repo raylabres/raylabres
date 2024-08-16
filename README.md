@@ -14,6 +14,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-6a0dad?style=for-the-badge&logo=googlechrome&logoColor=white)](https://raylabres.onrender.com/)
 
 ## Tecnologias
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png" alt="python" width="100"/>
+<img src="https://github.com/raylabres/raylabres/blob/main/imagens/python.png" alt="python" width="100"/>
 <img src="https://e7.pngegg.com/pngimages/159/366/png-clipart-django-python-computer-icons-logo-python-text-label.png" alt="python" width="100"/>
 
