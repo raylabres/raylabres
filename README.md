@@ -14,6 +14,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-6a0dad?style=for-the-badge&logo=googlechrome&logoColor=white)](https://raylabres.onrender.com/)
 
 ## Tecnologias
+<div>
 <img src="https://github.com/raylabres/raylabres/blob/main/imagens/python.png" alt="python" width="100"/>
-<img src="https://e7.pngegg.com/pngimages/159/366/png-clipart-django-python-computer-icons-logo-python-text-label.png" alt="python" width="100"/>
-
+<img src="https://github.com/raylabres/raylabres/blob/main/imagens/django.png" alt="django" width="100"/>
+<img src="https://github.com/raylabres/raylabres/blob/main/imagens/flask.png" alt="flask" width="100"/>
+<img src="https://github.com/raylabres/raylabres/blob/main/imagens/fastapi.py" alt="fastapi" width="100"/>
+<img src="https://github.com/raylabres/raylabres/blob/main/imagens/mysql.png" alt="mysql" width="100"/>
+<img src="https://github.com/raylabres/raylabres/blob/main/imagens/sqlserver.png" alt="sqlserver" width="100"/>
+<img src="https://github.com/raylabres/raylabres/blob/main/imagens/html.png" alt="html" width="100"/>
+<img src="https://github.com/raylabres/raylabres/blob/main/imagens/css.png" alt="css" width="100"/>
+</div>
