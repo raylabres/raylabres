@@ -12,3 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ray-labres)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:raylabres@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6a0dad?style=for-the-badge&logo=googlechrome&logoColor=white)](https://raylabres.onrender.com/)
+
+## Tecnologias
+<img src="https://media.licdn.com/dms/image/v2/D4E03AQH98SD5hlKhzw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715649773215?e=1729123200&v=beta&t=4y_9HE5_Ax4zhE2_WcwW7WLG0lCNDdjgppRB4saxoIM" alt="Descrição da Imagem" width="400"/>
