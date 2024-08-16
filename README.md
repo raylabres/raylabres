@@ -14,4 +14,4 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-6a0dad?style=for-the-badge&logo=googlechrome&logoColor=white)](https://raylabres.onrender.com/)
 
 ## Tecnologias
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png" alt="python" width="400"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png" alt="python" width="100"/>
