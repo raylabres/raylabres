@@ -11,4 +11,4 @@
 ## Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ray-labres)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:raylabres@gmail.com)
-[![Website](https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=googlechrome&logoColor=white)](https://raylabres.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6a0dad?style=for-the-badge&logo=googlechrome&logoColor=white)](https://raylabres.onrender.com/)
