@@ -15,3 +15,5 @@
 
 ## Tecnologias
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png" alt="python" width="100"/>
+<img src="https://e7.pngegg.com/pngimages/159/366/png-clipart-django-python-computer-icons-logo-python-text-label.png" alt="python" width="100"/>
+
