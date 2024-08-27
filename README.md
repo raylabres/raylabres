@@ -1,4 +1,4 @@
-# Olá👋 <br>Meu nome é Ray Labres😀<br>Desenvolvedor, entusiasta e apaixonado por tecnologia!👨‍💻
+# Olá👋 <br>Meu nome é Ray Labres😀<br>Desenvolvedor, estudante e apaixonado por tecnologia!👨‍💻
 <div>
 <a href="https://github.com/raylabres">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=raylabres&theme=blue-green&layout=compact&langs_count=8&count_private=true&card_width=250"/>
