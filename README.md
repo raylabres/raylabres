@@ -54,10 +54,6 @@ Sou estudante de Ciência da Computação e atuo como Analista de Segurança da 
 
 ## 🚀 Projetos em Destaque
 
-### 🔐 Fraud & AML Behavioral Engine  
-Sistema de análise comportamental para scoring de risco transacional, reduzindo falsos positivos e custos operacionais.  
-**Stack:** Python, SQL, Machine Learning, Data Pipelines  
-
 ### 🤖 AI OCR Web Scraping Research  
 Projeto de iniciação científica para extração automática de texto em imagens de páginas web usando OCR e visão computacional.  
 
