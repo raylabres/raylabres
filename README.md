@@ -12,16 +12,14 @@ Sou estudante de Ciência da Computação e atuo como Analista de Segurança da 
 - Análise comportamental e detecção de anomalias  
 - Automação com **Python, SQL e Machine Learning**
 - Projetos de **IA, OCR e visão computacional em iniciação científica**
+
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
-<div align="center">
-  <a href="https://github.com/raylabres">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raylabres&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raylabres&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=raylabres&theme=tokyonight&hide_border=true&locale=pt_BR" />
+</p>
 
 ---
 
@@ -54,6 +52,20 @@ Sou estudante de Ciência da Computação e atuo como Analista de Segurança da 
 
 ---
 
+## 🚀 Projetos em Destaque
+
+### 🔐 Fraud & AML Behavioral Engine  
+Sistema de análise comportamental para scoring de risco transacional, reduzindo falsos positivos e custos operacionais.  
+**Stack:** Python, SQL, Machine Learning, Data Pipelines  
+
+### 🤖 AI OCR Web Scraping Research  
+Projeto de iniciação científica para extração automática de texto em imagens de páginas web usando OCR e visão computacional.  
+
+### 🎥 Multi-Camera PPE Detection System  
+Sistema de detecção de EPI em tempo real com YOLOv5 e backend Flask para monitoramento industrial.  
+
+---
+
 ## 🌐 Contato
 
 <p>
@@ -64,5 +76,3 @@ Sou estudante de Ciência da Computação e atuo como Analista de Segurança da 
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
-
----
