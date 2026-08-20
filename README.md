@@ -28,14 +28,6 @@ Tenho experiência com:
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=raylabres&theme=tokyonight&hide_border=true&locale=pt_BR" />
-</p>
-
----
-
 ## 🧰 Tecnologias & Ferramentas
 
 ### 🐍 Linguagens e Frameworks
